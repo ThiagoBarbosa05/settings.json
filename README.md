@@ -1,5 +1,7 @@
 # settings.json
 
+```json
+
 {
   "symbols.hidesExplorerArrows": false,
   "tabnine.experimentalAutoImports": true,
@@ -291,3 +293,5 @@
   },
   "explorer.confirmPasteNative": false,
 }
+
+```
